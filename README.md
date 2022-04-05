@@ -13,6 +13,10 @@ I wanted to understand how the UI was implemented.
 The CSS is identical, but most of the javascript was
 re-written and commented.
 
+Read the code [here](https://github.com/kragstein/lingo)
+
+Play the game [here](https://lingo.kragstein.ch/)
+
 ## Numero
 
 Numero is a mental arithmetic game - with additions substraction,
@@ -27,8 +31,16 @@ It goes up to level 16 and gets pretty challenging.
 There's also different settings to play with different scripts,
 to make it extra challenging.
 
+Read the code [here](https://github.com/kragstein/numero)
+
+Play the game [here](https://numero.kragstein.ch/)
+
 ## Lernkartei
 
 A flash cards game to learn german vocabulary. 
 
 It uses the 1500 most frequently used german words as dataset.
+
+Read the code [here](https://github.com/kragstein/lernkartei)
+
+Play the game [here](https://lernkartei.kragstein.ch/)
